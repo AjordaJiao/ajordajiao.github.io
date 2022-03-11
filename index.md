@@ -2,7 +2,7 @@
 
 ------
 
-- ODE: Qualitative Theory [(pdf,updating)](course notes/ODE Qualitative Theory.pdf)
+- ODE: Qualitative Theory
 
   Taught by Shaobo Gan. Spring 2022.
 
