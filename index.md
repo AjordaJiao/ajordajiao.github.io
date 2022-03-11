@@ -2,11 +2,11 @@
 
 ------
 
-- ODE: Qualitative Theory (pdf,updating)
+- ODE: Qualitative Theory [(pdf,updating)](http://ajordajiao.github.io/course_notes/ODE_Qualitative_Theory.pdf?raw=true)
 
   Taught by Shaobo Gan. Spring 2022.
 
-- Harmonic Analysis (pdf,updating)
+- Harmonic Analysis [(pdf,updating)](http://ajordajiao.github.io/course_notes/Harmonic_Analysis.pdf?raw=true)
 
   Taught by Dongyi Wei. Spring 2022.
 - Homogeneous Dynamical System [(pdf,updating)](http://ajordajiao.github.io/course_notes/Homogeneous_Dynamics.pdf?raw=true)
