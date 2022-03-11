@@ -1,6 +1,6 @@
 # Ajorda Jiao
 
-##虽无铅刀用，庶几奋薄身。
+## 虽无铅刀用，庶几奋薄身。
 
 ### Course Notes
 
