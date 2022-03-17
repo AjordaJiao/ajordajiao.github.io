@@ -23,3 +23,13 @@
 - Sum Product Theorems and Applications [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Sum_Product.pdf?raw=true)
 
   Taught by Weikun He.
+  
+  
+  
+### Other Notes
+
+------
+
+ - Notes on Furstenberg Theorem [(pdf)](http://ajordajiao.github.io/Other_Notes/Notes_on_Furstenberg_Theorem.pdf?raw=true)
+   About non-commuting random products
+
