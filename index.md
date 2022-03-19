@@ -8,23 +8,23 @@
 
 #### Spring 2022
 
-- ODE: Qualitative Theory [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
+- ODE: Qualitative Theory [(pdf, updating)](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
 
   Taught by Shaobo Gan.
   
-- Differentiable Dynamical Systems [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Differentiable_Dynamical_Systems.pdf?raw=true)
+- Differentiable Dynamical Systems [(pdf, updating)](http://ajordajiao.github.io/Course_Notes/Differentiable_Dynamical_Systems.pdf?raw=true)
 
   Taught by Shaobo Gan.
 
-- Harmonic Analysis [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Harmonic_Analysis.pdf?raw=true)
+- Harmonic Analysis [(pdf, updating)](http://ajordajiao.github.io/Course_Notes/Harmonic_Analysis.pdf?raw=true)
 
   Taught by Dongyi Wei.
 
-- Homogeneous Dynamical System [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Homogeneous_Dynamics.pdf?raw=true)
+- Homogeneous Dynamical System [(pdf, updating)](http://ajordajiao.github.io/Course_Notes/Homogeneous_Dynamics.pdf?raw=true)
 
   Taught by Runlin Zhang.
 
-- Sum Product Theorems and Applications [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Sum_Product.pdf?raw=true)
+- Sum Product Theorems and Applications [(pdf, updating)](http://ajordajiao.github.io/Course_Notes/Sum_Product.pdf?raw=true)
 
   Taught by Weikun He.
   
