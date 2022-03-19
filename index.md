@@ -11,6 +11,10 @@
 - ODE: Qualitative Theory [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
 
   Taught by Shaobo Gan.
+  
+- Differentiable Dynamical Systems [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Differentiable_Dynamical_Systems.pdf?raw=true)
+
+  Taught by Shaobo Gan.
 
 - Harmonic Analysis [(pdf,updating)](http://ajordajiao.github.io/Course_Notes/Harmonic_Analysis.pdf?raw=true)
 
