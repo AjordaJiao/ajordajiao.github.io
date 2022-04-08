@@ -16,10 +16,6 @@
 
   Differentiable Dynamical Systems, taught by Shaobo Gan.
 
-- 调和分析(韦东奕) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Harmonic_Analysis.pdf?raw=true)
-
-  Harmonic Analysis, taught by Dongyi Wei.
-
 - 齐性动力系统(张润林) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Homogeneous_Dynamics.pdf?raw=true)
 
   Homogeneous Dynamical System, taught by Runlin Zhang.
