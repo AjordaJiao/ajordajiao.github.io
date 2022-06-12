@@ -8,7 +8,7 @@
 
 #### Spring 2022
 
-- 常微分方程定性理论(甘少波) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
+- 常微分方程定性理论(甘少波) [[pdf]](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
 
   ODE: Qualitative Theory, taught by Shaobo Gan.
 
