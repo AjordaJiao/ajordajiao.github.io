@@ -11,10 +11,6 @@
 - 常微分方程定性理论(甘少波) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
 
   ODE: Qualitative Theory, taught by Shaobo Gan.
-  
-- 微分动力系统(甘少波) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Differentiable_Dynamical_Systems.pdf?raw=true)
-
-  Differentiable Dynamical Systems, taught by Shaobo Gan.
 
 - 齐性动力系统(张润林) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Homogeneous_Dynamics.pdf?raw=true)
 
