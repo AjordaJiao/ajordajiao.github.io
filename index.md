@@ -28,7 +28,7 @@
 
 - 泛函分析II(章志飞) [[pdf]](http://ajordajiao.github.io/Course_Notes/Funtional_Analysis_II.pdf?raw=true)
 
-  Funtional Analysis II
+  Funtional Analysis II, taught by Zhifei Zhang.
   
 ### Other Notes
 
