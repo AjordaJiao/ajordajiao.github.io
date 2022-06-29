@@ -20,7 +20,7 @@
 
   Sum Product Theorems and Applications, taught by Weikun He.
   
-- 具有双曲性的高秩Abel群光滑作用(许地生) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Higher_Rank_Abelian_Smooth_Action_with_Hyperbolicity.pdf?raw=true)
+- 具有双曲性的高秩Abel群光滑作用(许地生) [[pdf]](http://ajordajiao.github.io/Course_Notes/Higher_Rank_Abelian_Smooth_Action_with_Hyperbolicity.pdf?raw=true)
 
   Higher Rank Abelian Smooth Action with Hyperbolicity, taught by Disheng Xu, at KTH.
 
