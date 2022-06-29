@@ -34,7 +34,7 @@
 
 ------
 
- - Notes on Furstenberg Theorem [[pdf]](http://ajordajiao.github.io/Other_Notes/Notes_on_Furstenberg_Theorem.pdf?raw=true)
+ - Notes on the Furstenberg Theorem [[pdf]](http://ajordajiao.github.io/Other_Notes/Notes_on_Furstenberg_Theorem.pdf?raw=true)
    
    About non-commuting random products.
 
