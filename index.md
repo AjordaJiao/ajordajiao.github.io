@@ -6,6 +6,12 @@
 
 ------
 
+#### Summer 2022
+
+- 环面上的Anosov映射(史逸) [[pdf,updating]](http://ajordajiao.github.io/Course_Notes/Anosov_Diffeomorphisms_on_Tori.pdf?raw=true)
+
+  Anosov Diffeomorphisms on Tori, taught by Yi Shi.
+
 #### Spring 2022
 
 - 常微分方程定性理论(甘少波) [[pdf]](http://ajordajiao.github.io/Course_Notes/ODE_Qualitative_Theory.pdf?raw=true)
