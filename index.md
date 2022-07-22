@@ -8,6 +8,8 @@
 
 #### Summer 2022
 
+- 二维微分同胚动力学及其拓展(杨大伟) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/二维微分同胚动力学及其拓展.pdf?raw=true)
+
 - 环面上的Anosov映射(史逸) [[pdf, updating]](http://ajordajiao.github.io/Course_Notes/Anosov_Diffeomorphisms_on_Tori.pdf?raw=true)
 
   Anosov Diffeomorphisms on Tori, taught by Yi Shi.
